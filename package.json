@@ -1,0 +1,11 @@
+{
+    "name": "p-receipt",
+    "version": "1.0.0",
+    "description": "P-Receipt mobile app",
+    "main": "src/app.js",
+    "scripts": {
+      "start": "node src/app.js"
+    },
+    "author": "James O'Neal",
+    "license": "ISC"
+  }
